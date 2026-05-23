@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/VDB24">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VDB24&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="VDB24's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VDB24&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="VDB24's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=VDB24&theme=dark&hide_border=true&cache_seconds=86400" alt="VDB24's GitHub Streak" width="49%" />
 </p>
