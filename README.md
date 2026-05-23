@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vashisht Brahmbhatt</h1>
+<img width="1253" height="119" alt="image" src="https://github.com/user-attachments/assets/454d2450-b7a9-421c-944f-41dc3f69f2f2" /><h1 align="center">Hi 👋, I'm Vashisht Brahmbhatt</h1>
 <h3 align="center">Curious about everything Tech.</h3>
 
 <p align="center">
@@ -33,6 +33,29 @@
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/VDB24/Cashistic">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VDB24&repo=Cashistic&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/VDB24/F1-race-replay">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VDB24&repo=F1-race-replay&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/VDB24/DevWrap">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VDB24&repo=DevWrap&theme=tokyonight&hide_border=true" />
+</a>
+
+
+<!-- <a href="https://github.com/VDB24/PROJECT4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VDB24&repo=PROJECT4&theme=tokyonight&hide_border=true&border_radius=15" />
+</a> -->
+
+</div>
 
 
 ## 🛠️ Languages & Tools
