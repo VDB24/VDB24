@@ -1,4 +1,4 @@
-<img width="1253" height="119" alt="image" src="https://github.com/user-attachments/assets/454d2450-b7a9-421c-944f-41dc3f69f2f2" /><h1 align="center">Hi 👋, I'm Vashisht Brahmbhatt</h1>
+<h1 align="center">Hi 👋, I'm Vashisht Brahmbhatt</h1>
 <h3 align="center">Curious about everything Tech.</h3>
 
 <p align="center">
