@@ -8,10 +8,10 @@
 </p>
 
 ## 📌 About Me
-•Pursuing dual degree, B.Tech Computer Science and B.S. Data Science
-•Currently Learning Deep Leaning Frameworks and applying in project scenarios
-•Building my startup named Colrnx.
-•Making content and documenting the journey @vashishtthinks(Instagram)
+- 🎓 Pursuing a dual degree in B.Tech Computer Science and B.S. Data Science
+- 🧠 Currently learning Deep Learning frameworks and applying them in real-world projects
+- 🚀 Building my startup, Colrnx
+- 🎥 Creating content and documenting the journey @vashishtthinks
 
 
 ## 🧠 My Focus Areas
