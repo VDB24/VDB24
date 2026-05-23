@@ -34,7 +34,7 @@
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
-# 🚀 Featured Projects
+# 🚀 Side Projects
 
 <div align="center">
 
@@ -57,6 +57,27 @@
 
 </div>
 
+# 🧠 Deep Learning Projects
+
+<div align="center">
+
+<a href="https://huggingface.co/spaces/glitchedvdb/plantleafresolution-cgan">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=🌿%20Plant%20Leaf%20Resolution%20CGAN&fontSize=28&fontColor=a78bfa&animation=fadeIn&fontAlignY=45&desc=Conditional%20GAN%20for%20Plant%20Leaf%20Super%20Resolution&descAlignY=70&descSize=16" />
+</a>
+
+<br><br>
+
+<a href="https://huggingface.co/spaces/glitchedvdb/chest-xray-mcc">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=140&section=header&text=🩻%20Chest%20XRay%20MCC&fontSize=30&fontColor=38bdf8&animation=fadeIn&fontAlignY=45&desc=Deep%20Learning%20Based%20Multi-Class%20Disease%20Classification&descAlignY=70&descSize=16" />
+</a>
+
+<br><br>
+
+<a href="https://huggingface.co/spaces/glitchedvdb/messymashup">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:312e81&height=140&section=header&text=🎵%20MessyMashup&fontSize=30&fontColor=f472b6&animation=fadeIn&fontAlignY=45&desc=Predicting%20the%20Right%20Genre%20from%20Noisy%20Music%20Mashups&descAlignY=70&descSize=16" />
+</a>
+
+</div>
 
 ## 🛠️ Languages & Tools
 
