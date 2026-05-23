@@ -51,9 +51,9 @@
 </a>
 
 
-<!-- <a href="https://github.com/VDB24/PROJECT4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VDB24&repo=PROJECT4&theme=tokyonight&hide_border=true&border_radius=15" />
-</a> -->
+<a href="https://github.com/VDB24/Vdb-Terminal-Portfolio">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VDB24&repo=Vdb-Terminal-Portfolio&theme=tokyonight&hide_border=true" />
+</a> 
 
 </div>
 
